@@ -20,7 +20,9 @@
   "homepage": "https://github.com/Yangmird/currency-exchange-v2#readme",
   "dependencies": {
     "express": "^5.1.0",
+    "fetch": "^1.1.0",
     "jest": "^30.0.5",
+    "node-fetch": "^2.7.0",
     "prime-number-check": "^1.0.1"
   }
 }
