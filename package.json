@@ -1,0 +1,26 @@
+{
+  "name": "currency-exchange-v2",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This is a currency-exchange project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yangmird/currency-exchange-v2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yangmird/currency-exchange-v2/issues"
+  },
+  "homepage": "https://github.com/Yangmird/currency-exchange-v2#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jest": "^30.0.5",
+    "prime-number-check": "^1.0.1"
+  }
+}
